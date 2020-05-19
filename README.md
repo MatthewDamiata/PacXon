@@ -1,5 +1,5 @@
 # PacXon
-## Fall 2018
+## CS110 - Fall 2018
 ### Team Project: Matthew Damiata, Adiel Felsen, Jack Stanley
 
 ***
